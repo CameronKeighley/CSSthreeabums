@@ -1,0 +1,22 @@
+h1 {
+    color: royalblue;
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.intro {
+    color:coral;
+}
+
+img {
+    width: 320px; 
+    height: 320px;
+}
+
+.other {
+    color:blueviolet
+}
+
